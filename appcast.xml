@@ -4,13 +4,13 @@
         <title>QuickDraw</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Sun, 22 Mar 2026 14:27:20 -0400</pubDate>
+            <pubDate>Sun, 22 Mar 2026 14:48:33 -0400</pubDate>
             <link>https://github.com/mushroom-theory-inc/quickdraw-app</link>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/mushroom-theory-inc/quickdraw-app/releases/download/sparkle/QuickDraw-1.0.0.dmg" length="5318919" type="application/octet-stream" sparkle:edSignature="jA8Uwf1jK77U8pV1J1zy+Y5YNPZ1bFY2x/J1EC26+wSHPEqBsRHouSiRLrfTmCXlzGWYKVR1b7xps9UgfD5uBw=="/>
+            <enclosure url="https://github.com/mushroom-theory-inc/quickdraw-app/releases/download/sparkle/QuickDraw-1.0.0.dmg" length="5318923" type="application/octet-stream" sparkle:edSignature="g045yrdgi90FeL4esgdCOTnpITt5InK/U70eE8RbqDfmVcuN4K0252u7rtoJlDStdpCiTXm5VL3myTJGANcLDg=="/>
         </item>
     </channel>
 </rss>
