@@ -10,7 +10,7 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/mushroom-theory-inc/quickdraw-app/releases/download/QuickDraw-1.0.0.dmg" length="5689326" type="application/octet-stream" sparkle:edSignature="Sbq8IOupB/RZzdY9KnSZC5Fd6EQCml7ByWSPFHG9mOt/RVt54lfHuJCOfXeSUy/trAv7ack1lNndHY9EZx66DA=="/>
+            <enclosure url="https://github.com/mushroom-theory-inc/quickdraw-app/releases/download/sparkle/QuickDraw-1.0.0.dmg" length="5689326" type="application/octet-stream" sparkle:edSignature="Sbq8IOupB/RZzdY9KnSZC5Fd6EQCml7ByWSPFHG9mOt/RVt54lfHuJCOfXeSUy/trAv7ack1lNndHY9EZx66DA=="/>
         </item>
     </channel>
 </rss>
